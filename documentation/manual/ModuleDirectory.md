@@ -88,6 +88,11 @@ To create your own public module or to migrate from a `play.api.Plugin`, please 
 * **Website (docs, sample):** <http://reactivemongo.org/releases/0.11/documentation/tutorial/play2.html>
 * **Short description:** Provides a Play 2.x module for ReactiveMongo, asynchronous and reactive driver for MongoDB.
 
+### PlayHippo (Java)
+
+* **Website:** <https://github.com/jbloemendal/play-hippo>
+* **Short description:** Provides a Play 2.x module for Hippo CMS
+
 ### Play-Slick
 * **Website (docs, sample):** <https://github.com/freekh/play-slick>
 * **Short description:** This plugin makes Slick a first-class citizen of Play.
